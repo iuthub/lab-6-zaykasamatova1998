@@ -1,0 +1,4 @@
+Lab-6
+group: 004
+ID:    U1610038
+Name:  Aziza Abdurakhmonova
